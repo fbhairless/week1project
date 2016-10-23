@@ -1,0 +1,250 @@
+body{
+  padding:2em;
+}
+
+.col-md-10{
+  border: 3px solid red;
+  margin-top: 5px;
+  padding: 3px;
+}
+
+img {
+  float: right;
+}
+
+.education{
+  font-style: normal;
+  color: black;
+  font-size: 15pt;
+}
+
+.header {
+  text-align: center;
+  float: left;
+  font-weight: 450;
+}
+
+.header h1 {
+  font-size: 24px;
+  margin-top: 2px;
+  font-weight: 400;
+}
+
+.header footer {
+  line-height: 30%;
+}
+
+.panel-default {
+  background-color: #f2f2f2;
+}
+
+.panel-body ul {
+  float:right;
+  margin-top: 10px;
+  line-height: 22px;
+  padding-left: 18px;
+  font-size: 15px;
+}
+
+.panel-success {
+  background-color: rgba(230, 255, 247, 0.5);
+  border: 1px solid rgba(153, 255, 192, 0.7);
+}
+
+.panel-info {
+  background-color: rgba(179, 209, 255, 0.2);
+  border: 1px solid gray;
+}
+
+.content-border {
+
+}
+
+.panel h2 {
+  background: gray;
+  margin: 8px;
+  border: 1px solid gray;
+  text-align: left;
+  padding: 6px;
+  font-size: 18px;
+  font-weight: 900;
+}
+
+.panel-success h2 {
+  background-color: rgba(153, 255, 192, 0.3);
+  border-color: rgba(42, 111, 47, 0.7);
+}
+
+.panel-info h2 {
+  background-color: rgba(179, 209, 255, 0.5);
+}
+
+#sidebartop {
+  padding-left: 0px;
+  border-bottom: 1px solid lightgray;
+  border
+}
+
+.left-float1 {
+  height: 180vh;
+  float: left;
+  padding-left: 15px;
+}
+
+@media (max-width: 992px) {
+  .sidebar {
+    height: auto;
+  }
+}
+
+.sidebar img {
+  width: 180px;
+}
+
+.container {
+  padding-left: 15px;
+  padding-right: 0px;
+  margin-left: inherit;
+  margin-right: inherit;
+}
+
+#left1 {
+  float: left;
+  padding-right: 15px;
+  padding-bottom: 15px;
+}
+
+#right1, #right2, #right3 {
+  float: right;
+  padding-left: 15px;
+  padding-bottom: 15px;
+}
+Contact GitHub API Training Shop Blog About
+© 2016 GitHub, Inc. Terms Privacy Security Status Help
+.experience{
+  font-size: 16pt;
+  color: blue;
+}
+
+.skills{
+  font-size: 16pt;
+  color: purple;
+}
+.bold{
+  font-size: 20pt;
+}
+
+
+<! -- CSS Stylrd from wiki rebuild
+
+a {
+  color: #045495;
+}
+
+.col-xs-1, .col-sm-1, .col-md-1, .col-lg-1, .col-xs-2, .col-sm-2, .col-md-2, .col-lg-2, .col-xs-3, .col-sm-3, .col-md-3, .col-lg-3, .col-xs-4, .col-sm-4, .col-md-4, .col-lg-4, .col-xs-5, .col-sm-5, .col-md-5, .col-lg-5, .col-xs-6, .col-sm-6, .col-md-6, .col-lg-6, .col-xs-7, .col-sm-7, .col-md-7, .col-lg-7, .col-xs-8, .col-sm-8, .col-md-8, .col-lg-8, .col-xs-9, .col-sm-9, .col-md-9, .col-lg-9, .col-xs-10, .col-sm-10, .col-md-10, .col-lg-10, .col-xs-11, .col-sm-11, .col-md-11, .col-lg-11, .col-xs-12, .col-sm-12, .col-md-12, .col-lg-12 {
+  padding-right: 3px;
+  padding-left: 3px;
+}
+
+.header {
+  text-align: center;
+  float: left;
+  font-weight: 450;
+}
+
+.header h1 {
+  font-size: 24px;
+  margin-top: 2px;
+  font-weight: 400;
+}
+
+.header footer {
+  line-height: 30%;
+}
+
+.panel-default {
+  background-color: #f2f2f2;
+}
+
+.panel-body ul {
+  float:right;
+  margin-top: 10px;
+  line-height: 22px;
+  padding-left: 18px;
+  font-size: 15px;
+}
+
+.panel-success {
+  background-color: rgba(230, 255, 247, 0.5);
+  border: 1px solid rgba(153, 255, 192, 0.7);
+}
+
+.panel-info {
+  background-color: rgba(179, 209, 255, 0.2);
+  border: 1px solid gray;
+}
+
+.content-border {
+
+}
+
+.panel h2 {
+  background: gray;
+  margin: 8px;
+  border: 1px solid gray;
+  text-align: left;
+  padding: 6px;
+  font-size: 18px;
+  font-weight: 900;
+}
+
+.panel-success h2 {
+  background-color: rgba(153, 255, 192, 0.3);
+  border-color: rgba(42, 111, 47, 0.7);
+}
+
+.panel-info h2 {
+  background-color: rgba(179, 209, 255, 0.5);
+}
+
+#sidebartop {
+  padding-left: 0px;
+  border-bottom: 1px solid lightgray;
+  border
+}
+
+.sidebar {
+  height: 180vh;
+  padding-left: 15px;
+}
+
+@media (max-width: 992px) {
+  .sidebar {
+    height: auto;
+  }
+}
+
+.sidebar img {
+  width: 180px;
+}
+
+.container {
+  padding-left: 15px;
+  padding-right: 0px;
+  margin-left: inherit;
+  margin-right: inherit;
+}
+
+#left1 {
+  float: left;
+  padding-right: 15px;
+  padding-bottom: 15px;
+}
+
+#right1, #right2, #right3 {
+  float: right;
+  padding-left: 15px;
+  padding-bottom: 15px;
+}
+Contact GitHub API Training Shop Blog About
+© 2016 GitHub, Inc. Terms Privacy Security Status Help
